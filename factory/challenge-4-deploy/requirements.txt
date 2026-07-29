@@ -1,2 +1,4 @@
 agent-framework 
 agent-framework-foundry
+azure-monitor-opentelemetry 
+opentelemetry-api
