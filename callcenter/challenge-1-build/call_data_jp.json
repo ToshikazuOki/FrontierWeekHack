@@ -1,0 +1,91 @@
+{
+  "company": "NovaTel Communications",
+  "department": "Customer Support",
+  "timestamp": "2026-05-13T14:00:00Z",
+  "calls": [
+    {
+      "call_id": "CALL-001",
+      "customer_id": "CUST-4421",
+      "customer_name": "Maria Gonzalez",
+      "account_tier": "premium",
+      "tenure_months": 36,
+      "summary": "5月の請求書に「プレミアムスポーツアドオン」として覚えのない47.99ドルの請求があった件で入電。このサービスを申し込んだ覚えはなく、即時返金を要求。3年間利用しているロイヤルカスタマーであり、解決しない場合は解約すると言及。",
+      "transcript_snippet": "3年も利用しているのに、こんなトラブルは初めてです。スポーツパッケージなんて申し込んでいません。今日中に対応してもらえないなら、他社に乗り換えます。",
+      "open_tickets": 0,
+      "last_interaction": "2026-04-02",
+      "status": "active"
+    },
+    {
+      "call_id": "CALL-002",
+      "customer_id": "CUST-8837",
+      "customer_name": "James Liu",
+      "account_tier": "basic",
+      "tenure_months": 4,
+      "summary": "昨日からインターネットが20～30分おきに切断されるとの報告。すでにルーターの再起動を2回試したが改善せず。在宅勤務中のため、急ぎで安定した接続環境を求めている。",
+      "transcript_snippet": "30分おきに接続が切れてしまいます。ルーターもすでに2回再起動しました。在宅勤務をしていて明日プレゼンがあるので、どうしても今夜中に治してほしいんです。",
+      "open_tickets": 1,
+      "last_interaction": "2026-05-12",
+      "status": "active"
+    },
+    {
+      "call_id": "CALL-003",
+      "customer_id": "CUST-2210",
+      "customer_name": "Priya Sharma",
+      "account_tier": "premium",
+      "tenure_months": 18,
+      "summary": "全サービスの解約を希望。NovaTelのサービスエリア外である新しい都市へ引越すため。解約違約金や最終請求の詳細について確認したいとのこと。",
+      "transcript_snippet": "来月ポートランドへ引っ越すのですが、確認したところサービスエリア外でした。解約の手続きはどうすればいいですか？事前に知っておくべき手数料などはありますか？",
+      "open_tickets": 0,
+      "last_interaction": "2026-03-15",
+      "status": "active"
+    },
+    {
+      "call_id": "CALL-004",
+      "customer_id": "CUST-5590",
+      "customer_name": "Robert Chen",
+      "account_tier": "business",
+      "tenure_months": 24,
+      "summary": "新入社員の増加に伴い、現在の5回線から12回線への増設について問い合わせている法人顧客。ボリュームディスカウントの有無や、既存の電話番号を新しいプラン構造に引き継げるか知りたいとのこと。",
+      "transcript_snippet": "チームを拡大するため、さらに7回線追加したいと考えています。まとめ買い割引などはありますか？また、現在の番号はすべてそのまま維持したいのですが、プラン変更しても可能でしょうか？",
+      "open_tickets": 0,
+      "last_interaction": "2026-04-20",
+      "status": "active"
+    },
+    {
+      "call_id": "CALL-005",
+      "customer_id": "CUST-1173",
+      "customer_name": "Sarah Mitchell",
+      "account_tier": "basic",
+      "tenure_months": 60,
+      "summary": "最近のアップデート後、新しいアプリの画面構成に困惑している長年の顧客。支払いやデータ使用量の確認方法が見つからず、メニュー間をたらい回しにされて苛立っている。",
+      "transcript_snippet": "何年もアプリで支払いをしてきたのに、今は何も見つかりません。新しいレイアウトは意味が分かりません。ただ今まで通り支払いをしたいだけなのに。",
+      "open_tickets": 2,
+      "last_interaction": "2026-05-10",
+      "status": "active"
+    },
+    {
+      "call_id": "CALL-006",
+      "customer_id": "CUST-6645",
+      "customer_name": "David Park",
+      "account_tier": "premium",
+      "tenure_months": 12,
+      "summary": "3週間前に返品した端末代金を請求されているとの申し出。倉庫へ配送完了となっている返品追跡番号を所持している。アカウントに899ドルの請求が発生しており、取り消しを求めている。",
+      "transcript_snippet": "スマホは3週間前に返品しました。FedExの追跡番号もあり、4月22日に配達完了となっています。それなのにまだ899ドルも請求されています。すぐに修正してください。",
+      "open_tickets": 1,
+      "last_interaction": "2026-05-05",
+      "status": "active"
+    },
+    {
+      "call_id": "CALL-007",
+      "customer_id": "CUST-3398",
+      "customer_name": "Emma Wilson",
+      "account_tier": "basic",
+      "tenure_months": 8,
+      "summary": "不正利用の疑いについて通報。要求していないSMSの認証コードが届き、アカウント内に見覚えのない端末が登録されていることに気づいた。セキュリティに関して非常に不安を感じている。",
+      "transcript_snippet": "身に覚えのない認証テキストが何度も届きます。ログインしてみたら、見知らぬ端末がアカウントに登録されていました。誰かにハッキングされたのでしょうか？すごく不安です。",
+      "open_tickets": 0,
+      "last_interaction": "2026-04-28",
+      "status": "active"
+    }
+  ]
+}
